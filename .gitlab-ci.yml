@@ -1,0 +1,22 @@
+# Docker Image, das für den Build-Job verwendet wird
+# Wir wählen ein OpenJDK Image mit Maven
+image: maven:3.8.6-openjdk-11 # Wähle die Java-Version, die zu deiner pom.xml passt (hier 11)
+
+# Definition der Phasen (Stages) in der Pipeline
+stages:
+  - test
+
+# Definition des Test-Jobs
+api_tests_job:
+  stage: test # Dieser Job gehört zur 'test'-Phase
+  script: # Die Befehle, die in diesem Job ausgeführt werden
+    - echo "Starting Maven tests..."
+    - mvn clean install # 'clean' löscht alte Build-Artefakte, 'install' baut das Projekt und führt Tests aus
+    # Alternativ, wenn du nur die Tests ausführen willst:
+    # - mvn test
+  artifacts: # Optional: Falls du Testreports oder andere Artefakte speichern möchtest
+    paths:
+      - target/surefire-reports/ # Pfad zu den JUnit-Testberichten
+    expire_in: 1 week # Wie lange die Artefakte auf GitLab gespeichert werden
+  # tags: # Optional: Wenn dein GitLab Runner spezifische Tags hat, hier eintragen. Ansonsten auskommentiert lassen.
+  #   - docker # Beispiel-Tag
