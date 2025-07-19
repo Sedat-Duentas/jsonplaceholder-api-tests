@@ -10,7 +10,7 @@ import static org.hamcrest.Matchers.*;
 
 public class TestCases extends BaseTest {
 
-    // Die ID des Kommentars, den wir für DELETE und POST (simulierte Neuerstellung) verwenden
+    // Die ID des Kommentars, den wir für DELETE und POST (simulierte Neuerstellung) verwenden.
     private final int COMMENT_ID_FOR_OPERATIONS = 1;
 
     // Die ID des Todos, das wir für PUT und PATCH verwenden.
