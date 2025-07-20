@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfdf9aa8-d308-45ef-a63d-3a726522da14" name="Changes" comment="gitlab finishp">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;Sedat1990&quot;,
+      &quot;fullname&quot;: &quot;Sedat Düntas&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.com/sedat1990-group/jsonplaceholder-api-tests.git&quot;,
+    &quot;second&quot;: &quot;41f8acd6-bcc1-4209-bc0e-2b8ac8d20a23&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2zuN720STcHqVACvQAIY39iJLKx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.JsonPlaceholderApiTests.createComment.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.createNewComment_shouldReturn201AndCreatedComment.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.createNewPost_shouldReturn201AndCreatedPost.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.deleteComment.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.deletePhoto_shouldReturn200.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.deletePost_shouldReturn200.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.getAllPosts_shouldReturn200AndListOfPosts.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.getAllUsers_shouldReturn200AndListOfUsers.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.getComments.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.getSingleAlbum_shouldReturn200AndCorrectAlbum.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.getSinglePost_shouldReturn200AndCorrectPost.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.partiallyUpdateExistingPostPatch_shouldReturn200AndPartiallyUpdatedPost.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.updateExistingPost_shouldReturn200AndUpdatedPost.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.updateExistingTodoPut_shouldReturn200AndUpdatedTodo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.updateTodoPatch.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JsonPlaceholderApiTests.updateTodoPut.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PostsApiTests.createNewPost_shouldReturn201AndCreatedPost.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PostsApiTests.deletePost_shouldReturn200.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PostsApiTests.getAllPosts_shouldReturn200AndListOfPosts.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PostsApiTests.getSinglePost_shouldReturn200AndCorrectPost.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PostsApiTests.updateExistingPost_shouldReturn200AndUpdatedPost.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestCases.createComment.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestCases.deleteComment.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestCases.getComments.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestCases.updateTodoPatch.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestCases.updateTodoPut.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sedat Düntas/Desktop/Taskforce/API-Test/jsonplaceholder-api-tests&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Sedat Düntas/IdeaProjects/jsonplaceholder-api-tests/src/main/java/com/sedat/apitests/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.TestCases.getComments">
+    <configuration name="TestCases.createComment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsonplaceholder-api-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.jsonplaceholder.setup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.jsonplaceholder.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.jsonplaceholder.tests.TestCases" />
+      <option name="METHOD_NAME" value="createComment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.deleteComment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsonplaceholder-api-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.jsonplaceholder.setup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.jsonplaceholder.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.jsonplaceholder.tests.TestCases" />
+      <option name="METHOD_NAME" value="deleteComment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.getComments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsonplaceholder-api-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.jsonplaceholder.setup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.jsonplaceholder.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.jsonplaceholder.tests.TestCases" />
+      <option name="METHOD_NAME" value="getComments" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.updateTodoPatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsonplaceholder-api-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.jsonplaceholder.setup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.jsonplaceholder.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.jsonplaceholder.tests.TestCases" />
+      <option name="METHOD_NAME" value="updateTodoPatch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.updateTodoPut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsonplaceholder-api-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.jsonplaceholder.setup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.jsonplaceholder.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.jsonplaceholder.tests.TestCases" />
+      <option name="METHOD_NAME" value="updateTodoPut" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestCases.getComments" />
+        <item itemvalue="JUnit.TestCases.updateTodoPatch" />
+        <item itemvalue="JUnit.TestCases.updateTodoPut" />
+        <item itemvalue="JUnit.TestCases.createComment" />
+        <item itemvalue="JUnit.TestCases.deleteComment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfdf9aa8-d308-45ef-a63d-3a726522da14" name="Changes" comment="" />
+      <created>1752576829522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752576829522</updated>
+    </task>
+    <task id="LOCAL-00001" summary="gitlab">
+      <option name="closed" value="true" />
+      <created>1752747426702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752747426702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitlab">
+      <option name="closed" value="true" />
+      <created>1752756123038</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752756123038</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitlab finish">
+      <option name="closed" value="true" />
+      <created>1752757382280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752757382280</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gitlab finish">
+      <option name="closed" value="true" />
+      <created>1752825593673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752825593673</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gitlab finishp">
+      <option name="closed" value="true" />
+      <created>1752952177743</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752952177743</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitlab" />
+    <MESSAGE value="gitlab finish" />
+    <MESSAGE value="gitlab finishp" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitlab finishp" />
+  </component>
+</project>
